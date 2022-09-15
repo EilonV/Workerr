@@ -1,0 +1,28 @@
+13.9.2022, 9:28:07 - DEBUG - Getting Toys (userId: 6320186f98782751fc009502)
+13.9.2022, 9:28:08 - DEBUG - Getting Toys (userId: 6320186f98782751fc009502)
+13.9.2022, 9:29:27 - INFO - Sample Logger Middleware (userId: 6320186f98782751fc009502)
+13.9.2022, 9:29:28 - INFO - Sample Logger Middleware (userId: 6320186f98782751fc009502)
+13.9.2022, 9:29:36 - DEBUG - auth.service - login with username: pupu 
+13.9.2022, 9:29:36 - ERROR - Failed to Login Invalid username or password 
+13.9.2022, 9:30:32 - INFO - Server is running on port: 3030 
+13.9.2022, 9:38:55 - INFO - Server is running on port: 3030 
+13.9.2022, 9:40:13 - INFO - Server is running on port: 3030 
+13.9.2022, 9:44:55 - INFO - Server is running on port: 3030 
+14.9.2022, 18:14:46 - INFO - Server is running on port: 3030 
+14.9.2022, 18:17:15 - DEBUG - Getting Toys 
+14.9.2022, 18:17:15 - DEBUG - Getting Toys 
+14.9.2022, 18:17:17 - DEBUG - Getting Toys 
+14.9.2022, 18:17:17 - DEBUG - Getting Toys 
+14.9.2022, 18:18:50 - DEBUG - Getting Toys 
+14.9.2022, 18:18:50 - DEBUG - Getting Toys 
+14.9.2022, 18:33:50 - DEBUG - Getting Toys 
+14.9.2022, 18:33:50 - DEBUG - Getting Toys 
+14.9.2022, 18:33:51 - DEBUG - Getting Toys 
+14.9.2022, 18:33:51 - DEBUG - Getting Toys 
+14.9.2022, 18:37:00 - DEBUG - Getting Toys 
+14.9.2022, 18:37:00 - DEBUG - Getting Toys 
+14.9.2022, 18:37:04 - DEBUG - Getting Toys 
+14.9.2022, 18:37:04 - DEBUG - Getting Toys 
+14.9.2022, 18:37:07 - DEBUG - Getting Toys 
+14.9.2022, 18:37:07 - DEBUG - Getting Toys 
+14.9.2022, 20:58:32 - INFO - Server is running on port: 3030 
