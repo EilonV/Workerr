@@ -26,3 +26,132 @@
 14.9.2022, 18:37:07 - DEBUG - Getting Toys 
 14.9.2022, 18:37:07 - DEBUG - Getting Toys 
 14.9.2022, 20:58:32 - INFO - Server is running on port: 3030 
+27.9.2022, 11:11:35 - INFO - Server is running on port: 3030 
+27.9.2022, 11:25:20 - INFO - Server is running on port: 3030 
+27.9.2022, 17:08:36 - INFO - Server is running on port: 3030 
+27.9.2022, 17:09:53 - DEBUG - auth.service - login with username: user1 
+27.9.2022, 17:09:53 - ERROR - Failed to LoginInvalid username or password 
+27.9.2022, 23:34:32 - INFO - Server is running on port: 3030 
+27.9.2022, 23:35:12 - ERROR - Failed to get Gig | ReferenceError: GigService is not defined 
+27.9.2022, 23:36:18 - DEBUG - Getting Gigs 
+27.9.2022, 23:36:18 - ERROR - Failed to get Gigs | ReferenceError: GigService is not defined 
+27.9.2022, 23:40:23 - DEBUG - Getting Gigs 
+27.9.2022, 23:40:23 - ERROR - Failed to get Gigs | ReferenceError: GigService is not defined 
+27.9.2022, 23:42:11 - DEBUG - Getting Gigs 
+27.9.2022, 23:42:11 - ERROR - Failed to get Gigs | ReferenceError: GigService is not defined 
+27.9.2022, 23:44:19 - DEBUG - Getting Gigs 
+27.9.2022, 23:44:19 - ERROR - Failed to get Gigs | ReferenceError: GigService is not defined 
+27.9.2022, 23:46:47 - DEBUG - auth.service - login with username: user1 
+27.9.2022, 23:46:47 - INFO - User login:  | {"_id":"633345f039a62392933c549a","fullname":"Guy","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0f37300e1e09cba08685e3c85a4ceb3f-1661447564773/305c8f97-9a87-449a-908a-20275c9ab8d4.jpg","username":"user1","country":"Israel","memberSince":"sep 2019"} 
+27.9.2022, 23:47:22 - DEBUG - auth.service - login with username: user1 
+27.9.2022, 23:47:22 - INFO - User login:  | {"_id":"633345f039a62392933c549a","fullname":"Guy","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0f37300e1e09cba08685e3c85a4ceb3f-1661447564773/305c8f97-9a87-449a-908a-20275c9ab8d4.jpg","username":"user1","country":"Israel","memberSince":"sep 2019"} 
+27.9.2022, 23:49:34 - DEBUG - auth.service - signup with username: user1, fullname: Guy 
+27.9.2022, 23:49:34 - ERROR - Failed to signup Username already taken 
+27.9.2022, 23:49:39 - DEBUG - auth.service - login with username: user1 
+27.9.2022, 23:49:39 - INFO - User login:  | {"_id":"633345f039a62392933c549a","fullname":"Guy","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0f37300e1e09cba08685e3c85a4ceb3f-1661447564773/305c8f97-9a87-449a-908a-20275c9ab8d4.jpg","username":"user1","country":"Israel","memberSince":"sep 2019"} 
+28.9.2022, 0:10:35 - DEBUG - auth.service - login with username: user1 
+28.9.2022, 0:10:35 - INFO - User login:  | {"_id":"633345f039a62392933c549a","fullname":"Guy","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0f37300e1e09cba08685e3c85a4ceb3f-1661447564773/305c8f97-9a87-449a-908a-20275c9ab8d4.jpg","username":"user1","country":"Israel","memberSince":"sep 2019"} 
+28.9.2022, 0:10:45 - DEBUG - auth.service - login with username: user1 
+28.9.2022, 0:10:46 - INFO - User login:  | {"_id":"633345f039a62392933c549a","fullname":"Guy","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0f37300e1e09cba08685e3c85a4ceb3f-1661447564773/305c8f97-9a87-449a-908a-20275c9ab8d4.jpg","username":"user1","country":"Israel","memberSince":"sep 2019"} 
+28.9.2022, 0:11:20 - DEBUG - auth.service - signup with username: shami, fullname: shimi (userId: 633345f039a62392933c549a)
+28.9.2022, 0:11:21 - DEBUG - auth.route - new account created: {"username":"shami","password":"$2b$10$VKRon0Ju5g4P0ZdIVYj3aes3.FW0ymzPekhvkG3Kj97t.Uhkh.cG6","fullname":"shimi","score":100,"_id":"633366f9aa142a6e68f860d7"} (userId: 633345f039a62392933c549a)
+28.9.2022, 0:11:21 - DEBUG - auth.service - login with username: shami (userId: 633345f039a62392933c549a)
+28.9.2022, 0:11:21 - INFO - User signup: | {"_id":"633366f9aa142a6e68f860d7","username":"shami","fullname":"shimi","imgUrl":null,"score":100} (userId: 633345f039a62392933c549a)
+28.9.2022, 0:11:31 - DEBUG - auth.service - login with username: shami (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 0:11:31 - INFO - User login:  | {"_id":"633366f9aa142a6e68f860d7","username":"shami","fullname":"shimi","imgUrl":null,"score":100} (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 0:15:02 - ERROR - Failed to get Gigs | ReferenceError: GigService is not defined (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 0:15:02 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 0:46:08 - INFO - Server is running on port: 3030 
+28.9.2022, 0:46:51 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 0:46:51 - ERROR - Failed to get Gigs | ReferenceError: GigService is not defined (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 11:43:52 - ERROR - Failed to get Gig | ReferenceError: GigService is not defined (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 11:44:04 - ERROR - Failed to get Gig | ReferenceError: GigService is not defined (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 12:09:44 - ERROR - Failed to get Gig | ReferenceError: GigService is not defined (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 12:10:01 - INFO - Server is running on port: 3030 
+28.9.2022, 14:20:56 - INFO - Server is running on port: 3030 
+28.9.2022, 15:22:22 - INFO - Server is running on port: 3030 
+28.9.2022, 15:22:39 - INFO - Server is running on port: 3030 
+28.9.2022, 15:22:42 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:22:42 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:23:07 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:23:07 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:25:29 - INFO - Server is running on port: 3030 
+28.9.2022, 15:25:44 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:25:44 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:26:49 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:26:49 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:26:50 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:26:50 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:26:51 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:26:51 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:26:51 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:26:51 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:26:51 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:26:51 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:26:51 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:26:51 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:39 - INFO - Server is running on port: 3030 
+28.9.2022, 15:27:41 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:41 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:41 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:41 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:41 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:42 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:42 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:42 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:42 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:42 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:42 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:42 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:42 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:42 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:44 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:44 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:44 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:44 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:44 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:44 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:45 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:45 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:45 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:27:45 - ERROR - Failed to get Gigs | SyntaxError: Unexpected token u in JSON at position 0 (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:32:56 - INFO - Server is running on port: 3030 
+28.9.2022, 15:33:02 - INFO - Server is running on port: 3030 
+28.9.2022, 15:33:28 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:33:43 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:34:45 - INFO - Server is running on port: 3030 
+28.9.2022, 15:34:59 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:35:44 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:35:54 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:35:58 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:36:17 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:38:20 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 15:38:29 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 19:13:24 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+28.9.2022, 23:57:26 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 0:47:01 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 0:47:03 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 0:47:05 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 0:47:08 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 0:47:09 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 0:47:09 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 0:47:13 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 9:45:56 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 9:46:44 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 9:47:45 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 10:09:38 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 10:36:33 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 10:36:54 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 10:37:41 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 10:44:49 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 10:48:16 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 10:48:39 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 10:49:42 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 10:49:56 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 10:50:14 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 10:51:53 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 10:52:25 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 10:56:36 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 10:57:21 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 12:27:51 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+29.9.2022, 12:28:01 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
