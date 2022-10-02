@@ -544,3 +544,11 @@
 2.10.2022, 14:56:35 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
 2.10.2022, 15:21:13 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
 2.10.2022, 15:58:11 - INFO - Server is running on port: 3030 
+2.10.2022, 16:17:55 - INFO - Server is running on port: 3030 
+2.10.2022, 16:18:22 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+2.10.2022, 16:18:26 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+2.10.2022, 16:19:08 - DEBUG - auth.service - login with username: eilon557 (userId: 633366f9aa142a6e68f860d7)
+2.10.2022, 16:19:08 - INFO - User login:  | {"_id":"633345f039a62392933c549a","fullname":"Eilon","imgUrl":"https://assets.mubicdn.net/images/cast_member/717885/image-w240.jpg","username":"eilon557","country":"Israel","memberSince":"sep 2019","rate":"5","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ee-1f1f1.png"} (userId: 633366f9aa142a6e68f860d7)
+2.10.2022, 16:19:16 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 16:19:17 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 16:19:17 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
