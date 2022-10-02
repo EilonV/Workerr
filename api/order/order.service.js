@@ -45,7 +45,8 @@ async function add(order) {
     try {
         newOrder = {
             ...order,
-            createdAt: Date.now()
+            createdAt: Date.now(),
+            status: 'pending'
         }
         const collection = await dbService.getCollection('order')
         await collection.insertOne(newOrder)

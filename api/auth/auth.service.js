@@ -15,6 +15,7 @@ async function login(username, password) {
 
     delete user.password
     user._id = user._id.toString()
+    
     return user
 }
 
