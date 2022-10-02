@@ -552,3 +552,111 @@
 2.10.2022, 16:19:16 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
 2.10.2022, 16:19:17 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
 2.10.2022, 16:19:17 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:15:22 - INFO - Server is running on port: 3030 
+2.10.2022, 19:15:40 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:16:13 - DEBUG - auth.service - login with username: eilon557 (userId: 633345f039a62392933c549a)
+2.10.2022, 19:16:13 - INFO - User login:  | {"_id":"633345f039a62392933c549a","fullname":"Eilon","imgUrl":"https://assets.mubicdn.net/images/cast_member/717885/image-w240.jpg","username":"eilon557","country":"Israel","memberSince":"sep 2019","rate":"5","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ee-1f1f1.png"} (userId: 633345f039a62392933c549a)
+2.10.2022, 19:16:18 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:16:18 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:16:18 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:28:52 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:28:54 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:28:57 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:28:57 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:28:57 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:29:12 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:29:50 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:29:50 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:29:50 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:32:31 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:32:31 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:32:31 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:32:45 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:34:01 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:34:05 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:34:05 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:34:05 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:36:36 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:36:37 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:36:52 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:36:52 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:36:52 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:39:47 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:39:48 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:40:09 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:40:09 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:40:09 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:42:20 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:42:21 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:42:25 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:42:25 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:42:25 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:45:14 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:45:15 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:45:15 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:47:04 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:47:05 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:47:05 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:48:02 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:48:02 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:48:02 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 19:48:15 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:48:34 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:48:40 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:48:45 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:48:55 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:49:36 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 19:52:28 - DEBUG - Getting Gigs 
+2.10.2022, 19:52:36 - DEBUG - auth.service - login with username: shami 
+2.10.2022, 19:52:37 - INFO - User login:  | {"_id":"633366f9aa142a6e68f860d7","username":"shami","fullname":"shimi","imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZVuUbCfMS2_AAL0CJSkMsRH1zs_aCqAnyQ&usqp=CAU","score":100,"rate":"3"} 
+2.10.2022, 19:53:46 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+2.10.2022, 19:53:53 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+2.10.2022, 19:54:09 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633366f9aa142a6e68f860d7)
+2.10.2022, 19:54:09 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633366f9aa142a6e68f860d7)
+2.10.2022, 19:54:09 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+2.10.2022, 19:55:49 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+2.10.2022, 19:55:52 - DEBUG - Getting Gigs 
+2.10.2022, 19:57:19 - DEBUG - Getting Gigs 
+2.10.2022, 19:57:51 - DEBUG - Getting Gigs 
+2.10.2022, 20:14:32 - DEBUG - Getting Gigs 
+2.10.2022, 20:16:45 - DEBUG - Getting Gigs 
+2.10.2022, 20:17:10 - DEBUG - Getting Gigs 
+2.10.2022, 20:17:49 - DEBUG - Getting Gigs 
+2.10.2022, 20:18:31 - DEBUG - Getting Gigs 
+2.10.2022, 20:19:39 - DEBUG - Getting Gigs 
+2.10.2022, 20:20:35 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+2.10.2022, 20:20:35 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+2.10.2022, 20:20:35 - DEBUG - Getting Gigs 
+2.10.2022, 20:20:37 - DEBUG - Getting Gigs 
+2.10.2022, 20:20:39 - DEBUG - Getting Gigs 
+2.10.2022, 20:20:42 - DEBUG - auth.service - login with username: shami 
+2.10.2022, 20:20:42 - INFO - User login:  | {"_id":"633366f9aa142a6e68f860d7","username":"shami","fullname":"shimi","imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZVuUbCfMS2_AAL0CJSkMsRH1zs_aCqAnyQ&usqp=CAU","score":100,"rate":"3"} 
+2.10.2022, 20:20:45 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+2.10.2022, 20:20:46 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633366f9aa142a6e68f860d7)
+2.10.2022, 20:20:46 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633366f9aa142a6e68f860d7)
+2.10.2022, 20:21:33 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633366f9aa142a6e68f860d7)
+2.10.2022, 20:21:33 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633366f9aa142a6e68f860d7)
+2.10.2022, 20:21:33 - DEBUG - Getting Gigs (userId: 633366f9aa142a6e68f860d7)
+2.10.2022, 20:41:29 - DEBUG - auth.service - login with username: eilon557 
+2.10.2022, 20:41:30 - INFO - User login:  | {"_id":"633345f039a62392933c549a","fullname":"Eilon","imgUrl":"https://assets.mubicdn.net/images/cast_member/717885/image-w240.jpg","username":"eilon557","country":"Israel","memberSince":"sep 2019","rate":"5","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ee-1f1f1.png"} 
+2.10.2022, 20:41:40 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 20:41:40 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 20:41:40 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 20:43:00 - DEBUG - auth.service - login with username: ilyaa (userId: 633345f039a62392933c549a)
+2.10.2022, 20:43:00 - INFO - User login:  | {"_id":"633345f039a62392933c549c","fullname":"Ilya","imgUrl":"https://thumbs.dreamstime.com/b/handsome-man-black-suit-white-shirt-posing-studio-attractive-guy-fashion-hairstyle-confident-man-short-beard-125019349.jpg","username":"ilyaa","country":"United States","memberSince":"sep 2021","rate":"3","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png"} (userId: 633345f039a62392933c549a)
+2.10.2022, 20:43:02 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549c)
+2.10.2022, 20:43:02 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549c)
+2.10.2022, 20:43:02 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549c)
+2.10.2022, 20:43:06 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549c)
+2.10.2022, 20:43:06 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549c)
+2.10.2022, 20:43:06 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549c)
+2.10.2022, 20:43:18 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549c)
+2.10.2022, 20:48:39 - DEBUG - auth.service - login with username: eilon557 
+2.10.2022, 20:48:39 - INFO - User login:  | {"_id":"633345f039a62392933c549a","fullname":"Eilon","imgUrl":"https://assets.mubicdn.net/images/cast_member/717885/image-w240.jpg","username":"eilon557","country":"Israel","memberSince":"sep 2019","rate":"5","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ee-1f1f1.png"} 
+2.10.2022, 20:48:41 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 20:48:41 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 20:48:42 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 20:59:54 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
+2.10.2022, 20:59:54 - ERROR - while finding gig undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 20:59:54 - ERROR - Failed to get Gig | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 633345f039a62392933c549a)
+2.10.2022, 21:33:48 - DEBUG - Getting Gigs (userId: 633345f039a62392933c549a)
