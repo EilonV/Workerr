@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.67ee4ac1.css",
-    "main.js": "/static/js/main.ba3a91bf.js",
+    "main.css": "/static/css/main.8d90674b.css",
+    "main.js": "/static/js/main.7c37345c.js",
     "static/media/1.png": "/static/media/1.195258e9b57c109f3035.png",
     "static/media/WorkSans-Bold.ttf": "/static/media/WorkSans-Bold.aa43e32a4b4e4ffe0942.ttf",
     "static/media/WorkSans-Regular.ttf": "/static/media/WorkSans-Regular.ca211a55c3d9d8690c63.ttf",
@@ -19,6 +19,7 @@
     "static/media/books.jpeg": "/static/media/books.cd1ff5e1305a46e20f9c.jpeg",
     "static/media/laptop.jpeg": "/static/media/laptop.b0bf60521c93a4082d06.jpeg",
     "static/media/house-design.jpeg": "/static/media/house-design.de18285bf739696c1e84.jpeg",
+    "static/media/must-login.svg": "/static/media/must-login.d7536e07ac325e1531258cdaa7b18ce2.svg",
     "static/media/payment.svg": "/static/media/payment.33fe7b1862c43976e054616cb7f1acb8.svg",
     "static/media/UBS.svg": "/static/media/UBS.e189ac6f13e3b52738152c42f7c52aec.svg",
     "static/media/paypal.svg": "/static/media/paypal.8863bdc31ec73114fb6f2cfbd965c84f.svg",
@@ -38,11 +39,12 @@
     "static/media/done.svg": "/static/media/done.8d7b2878e550c659f5002279a0c8ccb0.svg",
     "static/media/arrow-right.svg": "/static/media/arrow-right.1e413e933be1c302ac7fa31c85822d81.svg",
     "static/media/user.svg": "/static/media/user.a84f9f7793652dd463f4c0f558df646e.svg",
-    "main.67ee4ac1.css.map": "/static/css/main.67ee4ac1.css.map",
-    "main.ba3a91bf.js.map": "/static/js/main.ba3a91bf.js.map"
+    "static/media/star-fill.svg": "/static/media/star-fill.000b1fc8cc68b970e03a3fc1e8620fa9.svg",
+    "main.8d90674b.css.map": "/static/css/main.8d90674b.css.map",
+    "main.7c37345c.js.map": "/static/js/main.7c37345c.js.map"
   },
   "entrypoints": [
-    "static/css/main.67ee4ac1.css",
-    "static/js/main.ba3a91bf.js"
+    "static/css/main.8d90674b.css",
+    "static/js/main.7c37345c.js"
   ]
 }
