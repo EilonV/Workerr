@@ -20,7 +20,7 @@ const db = {
         "proffesional",
         "accessible"
       ],
-      "likedByUsers" : ['mini-user'] // for user-wishlist : use $in
+      "likedByUsers": ['mini-user'] // for user-wishlist : use $in
     }
   ],
   "order": [
@@ -60,15 +60,6 @@ const db = {
     },
   ]
 }
-
-
-
-
-
-
-
-
-
 
 const allTags = [
   "logo-design",
